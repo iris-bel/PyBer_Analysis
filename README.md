@@ -18,7 +18,7 @@ The chart above provides a week by week comparison of fares in each city type, d
 
 ## Summary
 
-Based on the data above, it seems that PyBer's algorithm works in such a way that the more total drivers and/or rides there are in a city, the cheaper the fare for the ride. One result of this is that rides in urban cities are significantly lower than rides in suburban and rural cities, which may contribute to a reaffirming bahavioral pattern where urban city dwellers use PyBer more often because it is more cost effective, pushing down ride prices even more and encouraging more people to use the service.
+Based on the data above, it seems that PyBer's algorithm works in such a way that the more total drivers and/or rides there are in a city, the cheaper the fare for the ride. One result of this is that rides in urban cities are significantly cheaper than rides in suburban and rural cities, which may contribute to a reaffirming bahavioral pattern where urban city dwellers use PyBer more often because it is more cost effective, pushing down ride prices even more and encouraging more people to use the service.
 
 Suburban and rural cities are inevitably at a disadvantage profit-wise due to the fact that these cities have lower populations and therefore less people who can take rides. However, PyBer may be able to encourage more people in suburban and rural cities to use PyBer (and use it more often) if the fares in those cities were lower. 
 
