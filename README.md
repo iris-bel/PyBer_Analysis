@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-This project analyzes data from the ride-sharing company, PyBer, to calculate and visualize the total weekly fares earned in urban, suburban, and rural cities.
+This project analyzes data from the ride-sharing company, PyBer, to calculate and visualize the total weekly fares earned in urban, suburban, and rural cities for the purpose of comparison.
 
 ## Results
 
